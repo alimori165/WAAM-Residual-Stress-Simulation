@@ -1,4 +1,4 @@
-# WAAM Residual Stress & Distortion — FEM Simulation
+
 
 **A Numerical and Experimental Investigation of Residual Stress and Distortion in Wire Arc Additive Manufacturing of Low-Alloy Steel**
 
